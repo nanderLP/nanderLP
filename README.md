@@ -1,8 +1,13 @@
 <h1 align="center">Nander</h1>
 
-[![Years Badge](https://badges.pufler.dev/years/rmcproductions?style=for-the-badge)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/repos/rmcproductions?style=for-the-badge)](https://badges.pufler.dev)
+<h1>My personal Stats</h1>
 
-I'm a young Developer living in Germany  
+[![Nander's github stats](https://github-readme-stats.vercel.app/api?username=nanderLP)](https://github.com/nanderLP)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanderLP)](https://github.com/nanderLP)
+
+
+
+
   
 [My Website](https://nander.dev)
