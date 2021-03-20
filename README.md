@@ -3,7 +3,7 @@
 ![Years Badge](https://badges.pufler.dev/repos/nanderLP?style=for-the-badge)  
 Hey 👋  
 I'm Nander, a young German Dev currently learning many different Web Technologies.  
-I like animes, music, games and Linux.
+I like animes, music, games and Linux.  
 Currently I have (some) experience in:
 - JS/TS
     - React (Next.js)
