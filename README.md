@@ -7,6 +7,7 @@ I like animes, music, games and Linux.
 Currently I have (some) experience in:
 - JS/TS
     - React (Next.js)
+    - Svelte (Kit)
     - HTML and (S)CSS
     - Express
     - discord.js
