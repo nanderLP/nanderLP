@@ -6,7 +6,7 @@ I'm Nander, a young German Dev currently learning many different Web Technologie
 I like anime, music, games and Linux.  
 Currently I have (some) experience in:
 - JS/TS
-    - deno
+    - Deno
     - React and Next.js
     - Svelte and Sveltekit
     - HTML, CSS and SCSS
