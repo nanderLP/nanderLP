@@ -3,15 +3,16 @@
 ![Years Badge](https://badges.pufler.dev/repos/nanderLP?style=for-the-badge)  
 Hey 👋  
 I'm Nander, a young German Dev currently learning many different Web Technologies.  
-I like animes, music, games and Linux.  
+I like anime, music, games and Linux.  
 Currently I have (some) experience in:
 - JS/TS
-    - React (Next.js)
-    - Svelte (Kit)
-    - HTML and (S)CSS
-    - Express
+    - deno
+    - React and Next.js
+    - Svelte and Sveltekit
+    - HTML, CSS and SCSS
+    - express, koa and oak
     - discord.js
 - Python
 - Java
 
-[![Nander's github stats](https://github-readme-stats.vercel.app/api?username=nanderLP&theme=tokyonight)](https://github.com/nanderLP)
+[![nander's github stats](https://github-readme-stats.vercel.app/api?username=nanderLP&theme=tokyonight)](https://github.com/nanderLP)
