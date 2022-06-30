@@ -6,11 +6,12 @@ I'm Nander, a young German Dev currently learning many different Web Technologie
 I like anime, music, games and Linux.  
 Currently I have (some) experience in:
 - JS/TS
+    - Node.js
     - Deno
     - React and Next.js
-    - Svelte and Sveltekit
+    - Svelte and SvelteKit
     - HTML, CSS and SCSS
-    - express, koa and oak
+    - express.js, koa and oak
     - discord.js
 - Python
 - Java
