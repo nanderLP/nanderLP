@@ -1,10 +1,9 @@
-# Nander
-![Years Badge](https://badges.pufler.dev/years/nanderLP?style=for-the-badge)
-![Years Badge](https://badges.pufler.dev/repos/nanderLP?style=for-the-badge)  
-Hey 👋  
-I'm Nander, a young German Dev currently learning many different Web Technologies.  
-I like anime, music, games and Linux.  
-Currently I have (some) experience in:
+<img src="https://user-images.githubusercontent.com/39925779/187039290-d67e4c6a-7dee-40d4-83b8-001d0ab094dc.svg" width="700">  
+
+### Hey 👋  
+I'm **Nander**, a young German Dev currently learning many different Web Technologies.  
+I like anime, music, games and Linux.    
+Currently I have (some) **experience** in:
 - JS/TS
     - Node.js
     - Deno
