@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/39925779/187039290-d67e4c6a-7dee-40d4-83b8-001d0ab094dc.svg" width="700">  
+<img src="https://user-images.githubusercontent.com/39925779/187039290-d67e4c6a-7dee-40d4-83b8-001d0ab094dc.svg">  
 
 ### Hey 👋  
 I'm **Nander**, a young German Dev currently learning many different Web Technologies.  
