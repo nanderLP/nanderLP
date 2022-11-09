@@ -1,0 +1,16 @@
+{
+  "name": "nander",
+  "version": "1.0.0",
+  "description": "👀",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanderLP/nanderLP.git"
+  },
+  "keywords": [
+    "nander"
+  ],
+  "author": "Nander",
+  "license": "MIT",
+  "homepage": "https://nander.dev"
+}
