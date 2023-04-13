@@ -14,5 +14,6 @@ Currently I have (some) **experience** in:
     - discord.js
 - Python
 - Java
+- Rust
 
 [![nander's github stats](https://github-readme-stats.vercel.app/api?username=nanderLP&theme=tokyonight)](https://github.com/nanderLP)
